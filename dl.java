@@ -178,7 +178,7 @@ public class dl extends JFrame implements ActionListener{
 class Calculator {
     public static String PlusOrMinus(String s){//加法或减法功能
         int len=s.length();
-        String Former="0"+s.substring(0,(len-1)/2);
+        /*String Former="0"+s.substring(0,(len-1)/2);
         char[] former=Former.toCharArray();//被加数或被减数字符串转化为字符数组
         String Latter="",fin="";
         char[] latter;
@@ -227,9 +227,10 @@ class Calculator {
         }
 
 //        if(result[0])
-        return fin;
-
-/*
+        return fin;*/
+        String Former=s.substring(0,(len-1)/2);
+        String Latter=s.substring((len+1)/2,len);
+        char Symbol=s.charAt((len-1)/2);//符号
         long former=Long.parseLong(Former);
         long latter=Long.parseLong(Latter);
         long decimalOfFormer=0,p=0;
@@ -264,8 +265,8 @@ class Calculator {
                 result+=Long.toBinaryString(minus);
                 return result;
             }
-        }*/
-//        return null;
+        }
+        return null;
     }
 
     public static String Or(String s){//或运算
