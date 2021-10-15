@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\时生\source\repos\算法实验一\算法实验一\源.cpp(45,18): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\时生\source\repos\算法实验一\算法实验一\源.cpp(45,14): warning C4309: “=”: 截断常量值
+  算法实验一.vcxproj -> C:\Users\时生\source\repos\算法实验一\Debug\算法实验一.exe

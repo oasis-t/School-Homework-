@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\时生\source\repos\实验2_2\实验2_2\源.c(93,15): warning C4047: “=”:“btnode *”与“BinaryTree *”的间接级别不同
+C:\Users\时生\source\repos\实验2_2\实验2_2\源.c(94,15): warning C4047: “=”:“btnode *”与“BinaryTree *”的间接级别不同
+C:\Users\时生\source\repos\实验2_2\实验2_2\源.c(92,1): warning C4047: “初始化”:“BinaryTree *”与“btnode *”的间接级别不同
+  实验2_2.vcxproj -> C:\Users\时生\source\repos\实验2_2\Debug\实验2_2.exe

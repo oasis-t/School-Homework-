@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\时生\source\repos\实验2_3\实验2_3\源.c(101,57): warning C4047: “函数”:“char”与“void *”的间接级别不同
+C:\Users\时生\source\repos\实验2_3\实验2_3\源.c(101,53): warning C4024: “MakeTree”: 形参和实参 3 的类型不同
+C:\Users\时生\source\repos\实验2_3\实验2_3\源.c(103,57): warning C4047: “函数”:“char”与“void *”的间接级别不同
+C:\Users\时生\source\repos\实验2_3\实验2_3\源.c(103,53): warning C4024: “MakeTree”: 形参和实参 3 的类型不同
+  实验2_3.vcxproj -> C:\Users\时生\source\repos\实验2_3\Debug\实验2_3.exe

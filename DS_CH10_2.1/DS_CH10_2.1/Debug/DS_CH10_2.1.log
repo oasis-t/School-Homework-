@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\时生\source\repos\DS_CH10_2.1\DS_CH10_2.1\源.cpp(42,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Entry”
+  DS_CH10_2.1.vcxproj -> C:\Users\时生\source\repos\DS_CH10_2.1\Debug\DS_CH10_2.1.exe
